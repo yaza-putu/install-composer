@@ -4,6 +4,7 @@
 #tested on linux
 
 # cara install
+* pastikan terinstall php pada terminal
 * copy dan paste pada terminal 
 ```bash
 php -r "copy('https://getcomposer.org/installer', 'composer-setup.php');"
